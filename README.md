@@ -54,6 +54,12 @@ Node.js and npm installed on your local environment.
 
 3. Open your browser and visit http://localhost:3000 to view the website.
 
+## Website Images
+   ![Screenshot 2024-07-12 103943](https://github.com/user-attachments/assets/8bbbd89a-f30a-4872-8594-a06119c3c496)
+   
+   ![Screenshot 2024-07-12 104015](https://github.com/user-attachments/assets/4bfdf9c1-7bc3-4f05-a774-c3795d2e4b99)
+   
+
 ## Usage
 
    Describe how to use the website and any additional setup needed.
@@ -68,9 +74,9 @@ Node.js and npm installed on your local environment.
 4. Open a Pull Request.
 
 ## Website link
-```
+
 https://incomparable-tulumba-f9a6aa.netlify.app/
-```
+
  
 ## Future Plans
 
