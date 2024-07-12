@@ -1,5 +1,3 @@
-Restaurant
-
 
 Restaurant Website
 
