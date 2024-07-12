@@ -60,10 +60,6 @@ Node.js and npm installed on your local environment.
    ![Screenshot 2024-07-12 104015](https://github.com/user-attachments/assets/4bfdf9c1-7bc3-4f05-a774-c3795d2e4b99)
    
 
-## Usage
-
-   Describe how to use the website and any additional setup needed.
-
 ## Contributing
    Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
