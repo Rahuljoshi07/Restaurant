@@ -1,6 +1,5 @@
-################
-###Restaurant###
-################
+Restaurant
+
 
 Restaurant Website
 
